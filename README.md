@@ -30,7 +30,7 @@ This project is a Protégé plugin to set up the association rules and test quer
 
 Currently only MySQL DBMS is supported
 
-### Some related publications related to SQL-eCO: ###
+### Some publications related to SQL-eCO: ###
 - [SEKE 2014](https://www.researchgate.net/publication/263086402_Are_The_Integrations_Between_Ontologies_and_Databases_Really_Opening_the_Closed_World_in_Ubiquitous_Computing?ev=prf_pub).
 - [ICEIS 2015](https://www.researchgate.net/publication/273413022_Proactive_Domain_Data_Querying_Based_on_Context_Information_in_Ambient_Assisted_Living_Environments).
 - [IEEE CBMS 2015](https://www.researchgate.net/publication/274720812_Ontology_Network_Definition_for_Motivational_Interviewing_Learning_Driven_by_Semantic_Context-Awareness).
