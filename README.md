@@ -9,15 +9,17 @@ This project is a Protégé plugin to set up the association rules and test quer
 
 ### Screenshots ###
  
-- Database configuration tab
+- Database configuration / Query Test tab
+![Database configuration tab](https://raw.githubusercontent.com/viniciusmaran/SQL-eCO-plugin-public/master/sqleco_config.png)
 
 - Domain as Context Rule tab
+![Domain as Context Rule tab](https://raw.githubusercontent.com/viniciusmaran/SQL-eCO-plugin-public/master/sqleco_domain_as_context.png)
 
 - Domain for a Specific Context Value tab
+![Domain for a Specific Context Value tab](https://raw.githubusercontent.com/viniciusmaran/SQL-eCO-plugin-public/master/sqleco_domain_for_cxt_value.png)
 
 - Domain for a Specific Context Element tab
-
-- Query Test tab
+![Domain for a Specific Context Element tab](https://raw.githubusercontent.com/viniciusmaran/SQL-eCO-plugin-public/master/sqleco_domain_for_cxt_element.png)
 
 ### Supported Association Rules ###
 - Domain as Context Rule
