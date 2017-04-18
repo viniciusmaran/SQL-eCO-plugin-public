@@ -1,4 +1,3 @@
-
 ## SQL-eCO Protégé Plugin - A SQL processor to personalize SQL queries using context ontologies ##
 
 SQL-eCO is a set of association rules and a extension algorithm proposed by me, [Vinicius Maran](https://www.researchgate.net/profile/Vinicius_Maran?ev=hdr_xprf&_sg=cRVwVAmvjM3kMWDkpt-0YFSn1OtITgjLrkx-lcdTMyDTGZCk98U90CSSMklXJFq3), in my PhD Thesis.
@@ -31,10 +30,10 @@ This project is a Protégé plugin to set up the association rules and test quer
 Currently only MySQL DBMS is supported
 
 ### Some publications related to SQL-eCO: ###
-- [SEKE 2014](https://www.researchgate.net/publication/263086402_Are_The_Integrations_Between_Ontologies_and_Databases_Really_Opening_the_Closed_World_in_Ubiquitous_Computing?ev=prf_pub).
-- [ICEIS 2015](https://www.researchgate.net/publication/273413022_Proactive_Domain_Data_Querying_Based_on_Context_Information_in_Ambient_Assisted_Living_Environments).
-- [IEEE CBMS 2015](https://www.researchgate.net/publication/274720812_Ontology_Network_Definition_for_Motivational_Interviewing_Learning_Driven_by_Semantic_Context-Awareness).
-- [ICEIS 2016](https://www.researchgate.net/publication/302925661_Semantic_Integration_between_Context-awareness_and_Domain_Data_to_Bring_Personalized_Queries_to_Legacy_Relational_Databases).
+- [SEKE 2014](https://www.researchgate.net/publication/263086402_Are_The_Integrations_Between_Ontologies_and_Databases_Really_Opening_the_Closed_World_in_Ubiquitous_Computing?ev=prf_pub). - Systematic review about the research area.
+- [ICEIS 2015](https://www.researchgate.net/publication/273413022_Proactive_Domain_Data_Querying_Based_on_Context_Information_in_Ambient_Assisted_Living_Environments). - Integration of query based on context with an AAL solution.
+- [IEEE CBMS 2015](https://www.researchgate.net/publication/274720812_Ontology_Network_Definition_for_Motivational_Interviewing_Learning_Driven_by_Semantic_Context-Awareness). - Definition of Ontology Network used in the evaluation scenario.
+- [ICEIS 2016](https://www.researchgate.net/publication/302925661_Semantic_Integration_between_Context-awareness_and_Domain_Data_to_Bring_Personalized_Queries_to_Legacy_Relational_Databases). - Definition of the support framework.
 
 #### As long as this document is in development, contact [Vinicius Maran](mailto:viniciusmaran@gmail.com) for more details.  ####
 
